@@ -21,10 +21,22 @@ import datetime
 #             row['headline'].encode('utf-8'), row['text'].encode('utf-8'),row['asset']['media'].encode('utf-8'),
 #             row['asset']['thumbnail'].encode('utf-8'), row['asset']['credit'].encode('utf-8')))
 
-
+def addDate(m, d, add=1):
+    day_cons=[31,28,31,30,31,30,31,31,30,31,30,31]
+    if((d + add) > day_cons[m-1]):
+        d = d + add - day_cons[m-1]
+        m += 1
+    else:
+        d += add
+    return (m,d)
+    
 def csv2json(infile, outfile, xe=False):
     dates = []
     with open(infile) as datafile:
+        #unkown birthday character fake birth var
+        no_birth_m = 1
+        no_birth_d = 1
+        
         for row in csv.DictReader(datafile, delimiter=','):
             if row['Show']=='Y':
                 dates.append({
@@ -54,12 +66,16 @@ def csv2json(infile, outfile, xe=False):
                     dates[len(dates)-1]['asset']['media']='img/key_logo.png'
                 if not os.path.isfile('img_thumb/'+row['THPic']):
                     dates[len(dates)-1]['asset']['thumbnail']='img_thumb/key_logo.png'
+                
+                #for unknown birthday character, we fake their birthday to be year 2001, month and day increases per character
                 if row['BirthMonth']== '不明' or row['BirthMonth']=='' or row['BirthMonth']=='0':
-                    dates[len(dates)-1]['startDate']='2001,1,1,0,0,1'
+                    dates[len(dates)-1]['startDate']='2001,%s,%s,0,0,1' %(no_birth_m, no_birth_d)
+                    (no_birth_m, no_birth_d) = addDate(no_birth_m, no_birth_d, add=2)
+                
                 if row['Height']=='不明' or row['Weight']=='不明' or row['Height']=='' or row['Weight']=='':
                         dates[len(dates)-1]['text'] = dates[len(dates)-1]['text'].replace('不明 cm','不明').replace('不明 kg','不明')
                 
-                ##~~~~~~
+                ##~~x~~e~~
                 if xe:
                     row['Cup']= row['Cup'].replace('目測','')
                     if row['Cup']=='G' or row['Cup']=='F' or row['Cup']=='E':

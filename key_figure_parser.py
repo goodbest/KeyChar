@@ -8,18 +8,18 @@ import os.path
 import datetime
 
 
-def json2csv(infile, outfile):
-    with open(infile) as datafile:
-        data = json.load(datafile)
-        dates = data['timeline']['date']
-        dates.sort(key = lambda x: (x['asset']['caption']))
-    
-    with open(outfile, 'w') as output:
-        output.write('caption\tstartdate\theadline\ttext\tmedia\tthumbnail\tcredit\n')
-        for row in dates:
-            output.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\n' %(row['asset']['caption'].encode('utf-8'), row['startDate'].encode('utf-8'), 
-            row['headline'].encode('utf-8'), row['text'].encode('utf-8'),row['asset']['media'].encode('utf-8'), 
-            row['asset']['thumbnail'].encode('utf-8'), row['asset']['credit'].encode('utf-8')))
+# def json2csv(infile, outfile):
+#     with open(infile) as datafile:
+#         data = json.load(datafile)
+#         dates = data['timeline']['date']
+#         dates.sort(key = lambda x: (x['asset']['caption']))
+#
+#     with open(outfile, 'w') as output:
+#         output.write('caption\tstartdate\theadline\ttext\tmedia\tthumbnail\tcredit\n')
+#         for row in dates:
+#             output.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\n' %(row['asset']['caption'].encode('utf-8'), row['startDate'].encode('utf-8'),
+#             row['headline'].encode('utf-8'), row['text'].encode('utf-8'),row['asset']['media'].encode('utf-8'),
+#             row['asset']['thumbnail'].encode('utf-8'), row['asset']['credit'].encode('utf-8')))
 
 
 def csv2json(infile, outfile, xe=False):
@@ -79,8 +79,8 @@ def csv2json(infile, outfile, xe=False):
     else:
         data['headline'] = 'Key Character Birthday Timeline'
     data['text'] = \
-        'Last update: 2015/03<br/>webpage made by <a href=\"https://twitter.com/lovegoodbest\">goodbest</a><br/><br/>' \
-        '<p>Special Thanks to:<br/>slk000, 幾星霜の観測者, JimRaynor</p>'
+        'Last update: 2015/03<br/>webpage made by <a href=\"https://twitter.com/lovegoodbest\">goodbest</a>@<a href=\"http://keyfc.net\">KeyFC</a><br/><br/>' \
+        '<p>Special Thanks to:<br/>slk000, 幾星霜の観測者, <a href=\"http://www.weibo.com/1415459877\">JimRaynor_2001>/a></p>'
     data['type'] = 'default'
     data['asset'] = {}
     data['asset']['media'] = 'img/key_logo.png'

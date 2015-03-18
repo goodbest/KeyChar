@@ -14,7 +14,7 @@
                                                                   888P              
        -->
   <head>
-    <title>Key Charactor Birthday Timeline XE</title>
+    <title>Key Charactor Birthday Timeline</title>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">    
     <meta name="description" content="The human computer interface helps to define computing at any one time.">
@@ -33,33 +33,17 @@
     <script type="text/javascript" src="js/storyjs-embed.js"></script>
     <script>
                 $(document).ready(function() {
-                    var todayCard = 0;
-                    var today = new Date();
-                    var todaym = new Date(2000,today.getMonth(),today.getDate());
-                    var fulldata;
-                    
-                    $.getJSON('key_figure_xe.json').done(function (data){
-                        fulldata = data;
-                        var slide_data = data['timeline']['date'];
-                        for (i = 0; i < slide_data.length; i++){
-                            var dates = slide_data[i]['startDate'].split(',');   
-                            if(todaym < new Date(dates[0], dates[1] - 1, dates[2])){
-                                todayCard = i + 1;
-                                break;
-                            }
-                        }
                         createStoryJS({
                             width: "100%",
                             height: "100%",
-                            source: fulldata,
+                            source: 'key_figure.json',
                             font:    'BreeSerif-OpenSans',
                             hash_bookmark:  true,
                             lang:    'zh-cnm',
-                            start_at_slide: todayCard,
+                            start_at_slide: 0,
                             debug:   false,
                             embed_id:   'keyfigure-timeline'
                         });
-                    });
                 });
     </script>
     <!-- Latest compiled and minified CSS -->

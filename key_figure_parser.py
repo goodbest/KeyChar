@@ -80,7 +80,7 @@ def csv2json(infile, outfile, xe=False):
         data['headline'] = 'Key Character Birthday Timeline'
     data['text'] = \
         'Last update: 2015/03<br/>webpage made by <a href=\"https://twitter.com/lovegoodbest\">goodbest</a>@<a href=\"http://keyfc.net\">KeyFC</a><br/><br/>' \
-        '<p>Special Thanks to:<br/>slk000, 幾星霜の観測者, <a href=\"http://www.weibo.com/1415459877\">JimRaynor_2001></a></p>'
+        '<p>Special Thanks to:<br/>slk000, 幾星霜の観測者, <a href=\"http://www.weibo.com/1415459877\">JimRaynor_2001</a></p>'
     data['type'] = 'default'
     data['asset'] = {}
     data['asset']['media'] = 'img/key_logo.png'

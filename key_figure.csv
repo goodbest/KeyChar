@@ -1,4 +1,4 @@
-Show,Name,NameR,BirthMonth,BirthDay,Height,Weight,Blood,B,W,H,Cup,Pic,THPic,Game,CV,Contributor,Refer
+Show,Name,NameR,BirthMonth,BirthDay,Height,Weight,Blood,B,W,H,Cup,Pic,ThumbPic,Game,CV,Contributor,Refer
 N,名字（请一定用日文！ 记得空格）,罗马字 （记得空格！）,出生月,出生日,身高厘米,体重千克,血型,三围胸,三围腹,三围臀,罩杯,图片文件名,缩略图图片文件名(需要低分辨率，最好只有头，为了快速载入）,出现的游戏,游戏/动画声优,写上你的大名,资料的来源
 Y,神尾 観鈴,Kamio Misuzu,7,23,159,46,O,83,55,82,D,AIR_MIS.png,,Air,川上 とも子,goodbest,http://ja.wikipedia.org/wiki/AIR_(%E3%82%B2%E3%83%BC%E3%83%A0)
 Y,霧島 佳乃,Kirishima Kano,6,12,156,45,A,82,53,80,E,AIR_KAN.png,,Air,岡本 麻見,goodbest,http://ja.wikipedia.org/wiki/AIR_(%E3%82%B2%E3%83%BC%E3%83%A0)
@@ -6,8 +6,8 @@ Y,遠野 美凪,Tōno Minagi,12,22,169,48,A,85,58,84,D,AIR_MIN.png,,Air,柚木 �
 Y,神尾 晴子,Kamio Haruko,11,3,168,48,B,88,57,85,E,AIR_HAR.png,,Air,久川 綾,JimRaynor,http://ja.wikipedia.org/wiki/AIR_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#.E7.99.BB.E5.A0.B4.E3.82.AD.E3.83.A3.E3.83.A9.E3.82.AF.E3.82.BF.E3.83.BC
 Y,霧島 聖,Kirishima Hijiri,1,3,172,50,AB,87,59,86,D,AIR_HIJ.png,,Air,冬馬 由美,slk000,http://ja.wikipedia.org/wiki/AIR_(%E3%82%B2%E3%83%BC%E3%83%A0)
 Y,みちる,Michiru,不明,不明,145,39,不明,72,49,70,A,AIR_MIC.png,,Air,田村 ゆかり,幾星霜の観測者,http://ja.wikipedia.org/wiki/AIR_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,神奈 備命,Kannabinomikoto,不明,不明,不明,不明,不明,不明,不明,不明,目測B,AIR_MIK.png,,Air,西村 ちなみ,JimRaynor,http://zh.wikipedia.org/wiki/AIR%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8（中文頁面列出的生日來源自聲優自己的生日）& http://ja.wikipedia.org/wiki/AIR_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#SUMMER.E7.B7.A8
-Y,裏葉,Uraha,不明,不明,不明,不明,不明,不明,不明,不明,目測E,AIR_URA.png,,Air,井上 喜久子,JimRaynor,http://ja.wikipedia.org/wiki/AIR_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#SUMMER.E7.B7.A8
+Y,神奈 備命,Kannabinomikoto,不明,不明,不明,不明,不明,不明,不明,不明,Est. B,AIR_MIK.png,,Air,西村 ちなみ,JimRaynor,http://zh.wikipedia.org/wiki/AIR%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8（中文頁面列出的生日來源自聲優自己的生日）& http://ja.wikipedia.org/wiki/AIR_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#SUMMER.E7.B7.A8
+Y,裏葉,Uraha,不明,不明,不明,不明,不明,不明,不明,不明,Est. E,AIR_URA.png,,Air,井上 喜久子,JimRaynor,http://ja.wikipedia.org/wiki/AIR_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#SUMMER.E7.B7.A8
 N,,,,,,,,,,,,,,,,,
 Y,月宮 あゆ,Tsukimiya Ayu,1,7,154,41,AB,80,52,79,D,KAN_AYU.png,KAN_AYU.gif,Kanon,堀江 由衣,slk000,http://ja.wikipedia.org/wiki/Kanon_(%E3%82%B2%E3%83%BC%E3%83%A0)
 Y,水瀬 名雪,Minase Nayuki,12,23,164,47,B,83,57,82,D,KAN_NAY.png,KAN_NAY.gif,Kanon,國府田 マリ子,slk000,http://ja.wikipedia.org/wiki/Kanon_(%E3%82%B2%E3%83%BC%E3%83%A0)
@@ -24,16 +24,16 @@ Y,藤林 杏,Fujibayashi Kyō,9,9,160,46,O,82,56,82,C,CLA_KYO.png,,CLANNAD,広�
 Y,一ノ瀬 ことみ,Ichinose Kotomi,5,13,160,48,A,88,58,85,F,CLA_KOT.png,,CLANNAD,能登 麻美子,slk000,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
 Y,坂上 智代,Sakagami Tomoyo,10,14,161,47,O,86,57,82,E,CLA_TOM.png,,CLANNAD,桑島 法子,slk000,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
 Y,伊吹 風子,Ibuki Fūko,7,20,150,41,B,78,54,79,A,CLA_FUK.png,,CLANNAD,野中 藍,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,宮沢 有紀寧,Miyazawa Yukine,8,7,157,45,A,不明,不明,不明,目測B,CLA_YUK.png,,CLANNAD,榎本 温子,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,藤林 椋,Fujibayashi Ryou,9,9,159,47,O,不明,不明,不明,目測D,CLA_RYO.png,,CLANNAD,神田 朱未,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,相楽 美佐枝,Sagara Misae,4,3,166,51,B,不明,不明,不明,目測E,CLA_MIS.png,,CLANNAD,雪野 五月,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
-Y,春原 芽衣,Sunohara Mei,6,11,152,42,A,不明,不明,不明,目測A,CLA_MEI.png,,CLANNAD,田村 ゆかり,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
-Y,古河 早苗,Furukawa Sanae,10,5,158,45,A,不明,不明,不明,目測C,CLA_SAN.png,,CLANNAD,井上 喜久子,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
-Y,伊吹 公子,Ibuki Kouko,1,18,161,49,AB,不明,不明,不明,目測C,CLA_KOU.png,,CLANNAD,皆口 裕子,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
-Y,岡崎 汐,Okazaki Ushio,不明,不明,不明,不明,不明,不明,不明,不明,不明,CLA_USH.png,,CLANNAD,兴梠 里美,幾星霜の観測者,http://zh.wikipedia.org/wiki/CLANNAD
+Y,宮沢 有紀寧,Miyazawa Yukine,8,7,157,45,A,不明,不明,不明,Est. B,CLA_YUK.png,,CLANNAD,榎本 温子,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
+Y,藤林 椋,Fujibayashi Ryou,9,9,159,47,O,不明,不明,不明,Est. D,CLA_RYO.png,,CLANNAD,神田 朱未,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
+Y,相楽 美佐枝,Sagara Misae,4,3,166,51,B,不明,不明,不明,Est. E,CLA_MIS.png,,CLANNAD,雪野 五月,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
+Y,春原 芽衣,Sunohara Mei,6,11,152,42,A,不明,不明,不明,Est. A,CLA_MEI.png,,CLANNAD,田村 ゆかり,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
+Y,古河 早苗,Furukawa Sanae,10,5,158,45,A,不明,不明,不明,Est. C,CLA_SAN.png,,CLANNAD,井上 喜久子,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
+Y,伊吹 公子,Ibuki Kouko,1,18,161,49,AB,不明,不明,不明,Est. C,CLA_KOU.png,,CLANNAD,皆口 裕子,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
+Y,岡崎 汐,Okazaki Ushio,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,CLA_USH.png,,CLANNAD,兴梠 里美,幾星霜の観測者,http://zh.wikipedia.org/wiki/CLANNAD
 ,,,,,,,,,,,,,,,,,
-Y,河南子,Kanako,不明,不明,不明,不明,不明,不明,不明,不明,目測C,TA_KAN.png,,智代アフター,すずき けいこ,JimRaynor,http://ja.wikipedia.org/wiki/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC_%E3%80%9CIt%27s_a_Wonderful_Life%E3%80%9C
-Y,三島 とも,Mishima Tomo,不明,不明,不明,不明,不明,不明,不明,不明,目測AA,TA_MIS.png,,智代アフター,佐々木 あかり,JimRaynor,http://ja.wikipedia.org/wiki/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC_%E3%80%9CIt%27s_a_Wonderful_Life%E3%80%9C
+Y,河南子,Kanako,不明,不明,不明,不明,不明,不明,不明,不明,Est. C,TA_KAN.png,,智代アフター,すずき けいこ,JimRaynor,http://ja.wikipedia.org/wiki/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC_%E3%80%9CIt%27s_a_Wonderful_Life%E3%80%9C
+Y,三島 とも,Mishima Tomo,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,TA_MIS.png,,智代アフター,佐々木 あかり,JimRaynor,http://ja.wikipedia.org/wiki/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC_%E3%80%9CIt%27s_a_Wonderful_Life%E3%80%9C
 ,,,,,,,,,,,,,,,,,
 N,直枝 理樹,Naoe Riki,1,17,166,54,不明,不明,不明,不明,A,LB_RIK.jpg,,Little Busters!,民安 ともえ (game)<br/>堀江 由衣 (anime),,
 Y,棗 鈴,Natsume Rin,9,2,153,43,O,77,54,80,B,LB_RIN.png,,Little Busters!,民安 ともえ (game)<br/>たみやす ともえ (anime),slk000/JimRaynor,http://zh.wikipedia.org/wiki/Little_Busters!
@@ -45,11 +45,16 @@ Y,西園 美魚,Nishizono Mio,8,22,153,41,AB,75,55,79,A,LB_MIO.png,,Little Buste
 Y,二木 佳奈多,Futaki Kanata,10,13,163,47,A,80,57,82,C,LBE_KAN.png,,Little Busters! EX,涼森 ちさと (game)<br/>すずき けいこ (anime),slk000/JimRaynor,http://zh.wikipedia.org/wiki/Little_Busters!
 Y,笹瀬川 佐々美,Sasasegawa Sasami,12,3,154,43,B,78,54,81,B,LBE_SAS.png,,Little Busters! EX,民安 ともえ (game)<br/>徳井 青空 (anime),slk000/JimRaynor,http://zh.wikipedia.org/wiki/Little_Busters!
 Y,朱鷺戸 沙耶,Tokido Saya,10,21,156,44,不明,83,55,82,E,LBE_SAY.png,,Little Busters! EX,風音 (game)<br/>櫻井 浩美 (anime),slk000,http://zh.wikipedia.org/wiki/Little_Busters! http://dic.nicovideo.jp/a/%E6%9C%B1%E9%B7%BA%E6%88%B8%E6%B2%99%E8%80%B6
+Y,杉並 睦実,Suginami Mutsumi,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,,,Little Busters!,花澤 香菜,JimRaynor,http://zh.wikipedia.org/zh-hk/Little_Busters!
+Y,渡辺 咲子,Watanabe Sakiko,不明,不明,不明,不明,不明,不明,不明,不明,Est. A,,,Little Busters!,野中 藍,JimRaynor,http://zh.wikipedia.org/zh-hk/Little_Busters!
+Y,川越 令,Kwagoe Rei,不明,不明,不明,不明,不明,不明,不明,不明,Est. C,,,Little Busters!,神田 朱未,JimRaynor,http://zh.wikipedia.org/zh-hk/Little_Busters!
+Y,中村 由香里,Nakamura Yukari,不明,不明,不明,不明,不明,不明,不明,不明,Est. A,,,Little Busters!,広橋 涼,JimRaynor,http://zh.wikipedia.org/zh-hk/Little_Busters!
+Y,古式 みゆき,Koshiki Miyuki,不明,不明,不明,不明,不明,不明,不明,不明,Est. E,,,Little Busters!,鴨ノ宮 ゆう(all-age game)<br/>江田 あかね(EX)<br/>本多 陽子(anime),JimRaynor,http://zh.wikipedia.org/zh-hk/Little_Busters!
 N,,,,,,,,,,,,,,,,,
 Y,氷室 憂希,Himuro Yūki,11,3,165,45,不明,89,58,84,F,KW_YUK.png,KW_YUK.jpg,Kud Wafter,襖川 久美子,幾星霜の観測者,http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%89%E3%82%8F%E3%81%B5%E3%81%9F%E3%83%BC
 Y,あーちゃん先辈,Achansenpai,4,1,160,45,不明,81,58,83,C,KW_ACH.png,KW_ACH.jpg,Kud Wafter,平井 理子,幾星霜の観測者,http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%89%E3%82%8F%E3%81%B5%E3%81%9F%E3%83%BC
-Y,有月 椎菜,Arizuki Shiina,3,25,125,25,不明,不明,不明,不明,目測AA,KW_SHI.png,KW_SHI.jpg,Kud Wafter,仲野 七恵,goodbest/JimRaynor,http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%89%E3%82%8F%E3%81%B5%E3%81%9F%E3%83%BC
-Y,有月 初,Arizuki Ui,不明,不明,不明,不明,不明,不明,不明,不明,目測A,KW_YUI.png,KW_YUI.jpg,Kud Wafter,由宇 翼,goodbest/JimRaynor,http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%89%E3%82%8F%E3%81%B5%E3%81%9F%E3%83%BC
+Y,有月 椎菜,Arizuki Shiina,3,25,125,25,不明,不明,不明,不明,Est. AA,KW_SHI.png,KW_SHI.jpg,Kud Wafter,仲野 七恵,goodbest/JimRaynor,http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%89%E3%82%8F%E3%81%B5%E3%81%9F%E3%83%BC
+Y,有月 初,Arizuki Ui,不明,不明,不明,不明,不明,不明,不明,不明,Est. A,KW_YUI.png,KW_YUI.jpg,Kud Wafter,由宇 翼,goodbest/JimRaynor,http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%89%E3%82%8F%E3%81%B5%E3%81%9F%E3%83%BC
 N,,,,,,,,,,,,,,,,,
 Y,神戸 小鳥,Kanbe Kotori,7,26,156,44,不明,83,54,83,E,RW_KOT.png,RW_KOT.jpg,Rewrite,斎藤 千和,幾星霜の観測者,http://zh.wikipedia.org/wiki/Rewrite
 Y,鳳 ちはや,Ohtori Chihaya,8,24,159,46,不明,82,55,84,D,RW_CHI.png,RW_CHI.jpg,Rewrite,篠宮 沙弥,幾星霜の観測者,http://zh.wikipedia.org/wiki/Rewrite
@@ -57,27 +62,28 @@ Y,千里 朱音,Senri Akane,2,17,160,47,不明,86,57,85,E,RW_AKA.png,RW_AKA.jpg,
 Y,中津 静流,Nakatsu Sizuru,6,18,149,39,不明,75,52,73,A,RW_SIZ.png,RW_SIZ.jpg,Rewrite,すずき けいこ,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/Rewrite
 Y,此花 ルチア,Konohana Lucia,12,23,167,52,不明,93,59,86,G,RW_LUC.png,RW_LUC.jpg,Rewrite,朝树 りさ,幾星霜の観測者,http://zh.wikipedia.org/wiki/Rewrite
 Y,西九条 灯花,Nishikujō Tōka,不明,不明,167,54,不明,88,61,87,D,RW_TOU.png,RW_TOU.jpg,Rewrite,田中 凉子,幾星霜の観測者,http://zh.wikipedia.org/wiki/Rewrite
-Y,篝,Kagari,不明,不明,不明,不明,不明,不明,不明,不明,目測AA,RW_KAG.png,RW_KAG.jpg,Rewrite,花澤 香菜,JimRaynor,
-Y,しまこ,Shimako,不明,不明,不明,不明,不明,不明,不明,不明,不明,RW_SHI.png,,Rewrite,渡邉 佳美,goodbest,http://zh.wikipedia.org/wiki/Rewrite
-Y,井上,Inoue,不明,不明,不明,不明,不明,不明,不明,不明,不明,RW_INO.png,,Rewrite,渡邉 佳美,goodbest,http://zh.wikipedia.org/wiki/Rewrite
+Y,篝,Kagari,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,RW_KAG.png,RW_KAG.jpg,Rewrite,花澤 香菜,JimRaynor,
+Y,しまこ,Shimako,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,RW_SHI.png,,Rewrite,渡邉 佳美,goodbest,http://zh.wikipedia.org/wiki/Rewrite
+Y,井上,Inoue,不明,不明,不明,不明,不明,不明,不明,不明,Est. C,RW_INO.png,,Rewrite,渡邉 佳美,goodbest,http://zh.wikipedia.org/wiki/Rewrite
 N,,,,,,,,,,,,,,,,,
 Y,ほしの ゆめみ,Hoshino Yumemi,不明,不明,不明,不明,不明,不明,不明,不明,不明,PL_YUM.png,,Planetarian,すずき けいこ,goodbest,http://ja.wikipedia.org/wiki/Planetarian_%E3%80%9C%E3%81%A1%E3%81%84%E3%81%95%E3%81%AA%E3%81%BB%E3%81%97%E3%81%AE%E3%82%86%E3%82%81%E3%80%9C
 N,,,,,,,,,,,,,,,,,
-Y,立華 かなで,Tachibana Kanade,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_KAN.png,,Angel Beats!,花澤 香菜,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,仲村 ゆり,Nakamura Yuri,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_YUR.png,,Angel Beats!,櫻井 浩美,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,椎名,Shina,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_SHI.png,,Angel Beats!,斎藤 楓子,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,遊佐,Yusa,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_YUS.png,,Angel Beats!,牧野 由依,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,岩沢 まさみ,Iwasawa Masami,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_IWA.png,,Angel Beats!,沢城 みゆき,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,ひさ子,Hisako,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_HIS.png,,Angel Beats!,松浦 チエ,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,関根 しおり,Sekine Shiori,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_SEK.png,,Angel Beats!,加藤 英美里,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,入江 みゆき,Irie Miyuki,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_IRI.png,,Angel Beats!,阿澄 佳奈,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,ユイ,YUI,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_YUI.png,,Angel Beats!,喜多村 英梨,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
-Y,音無 初音,Otonashi Hatsune,不明,不明,不明,不明,不明,不明,不明,不明,不明,AB_HAT.png,,Angel Beats!,中原 麻衣,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,立華 かなで,Tachibana Kanade,不明,不明,不明,不明,不明,不明,不明,不明,Est. B,AB_KAN.png,,Angel Beats!,花澤 香菜,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,仲村 ゆり,Nakamura Yuri,不明,不明,不明,不明,不明,不明,不明,不明,Est. C,AB_YUR.png,,Angel Beats!,櫻井 浩美,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,椎名,Shiina,不明,不明,不明,不明,不明,不明,不明,不明,Est. F,AB_SHI.png,,Angel Beats!,斎藤 楓子,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,遊佐,Yusa,不明,不明,不明,不明,不明,不明,不明,不明,Est. B,AB_YUS.png,,Angel Beats!,牧野 由依,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,岩沢 まさみ,Iwasawa Masami,不明,不明,不明,不明,不明,不明,不明,不明,Est. D,AB_IWA.png,,Angel Beats!,沢城 みゆき,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,ひさ子,Hisako,不明,不明,不明,不明,不明,不明,不明,不明,Est. G,AB_HIS.png,,Angel Beats!,松浦 チエ,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,関根 しおり,Sekine Shiori,不明,不明,不明,不明,不明,不明,不明,不明,Est. D,AB_SEK.png,,Angel Beats!,加藤 英美里,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,入江 みゆき,Irie Miyuki,不明,不明,不明,不明,不明,不明,不明,不明,Est. C,AB_IRI.png,,Angel Beats!,阿澄 佳奈,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,ユイ,YUI,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,AB_YUI.png,,Angel Beats!,喜多村 英梨,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
+Y,音無 初音,Otonashi Hatsune,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,AB_HAT.png,,Angel Beats!,中原 麻衣,幾星霜の観測者,http://ja.wikipedia.org/wiki/Angel_Beats!
 N,,,,,,,,,,,,,,,,,
-Y,友利 奈緒,,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_NAO.png,,Charlotte,不明,goodbest,http://ja.wikipedia.org/wiki/Charlotte
+Y,友利 奈緒,Tomori Nao,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_NAO.png,,Charlotte,不明,goodbest,http://ja.wikipedia.org/wiki/Charlotte
 Y,西森 柚咲,,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_YUS.png,,Charlotte,不明,goodbest,http://ja.wikipedia.org/wiki/Charlotte
 N,乙坂 有宇,,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_YUU.png,,Charlotte,不明,goodbest,http://ja.wikipedia.org/wiki/Charlotte
 N,高城 丈士朗,,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_JOU.png,,Charlotte,不明,goodbest,http://ja.wikipedia.org/wiki/Charlotte
+N,乙坂步未,,,,,,,,,,,,,,,,
 N,,,,,,,,,,,,,,,,,
 N,还要完成的：,,,,,,,,,,,,,,,,
 N,1. 补全罗马字,,,,,,,,,,,,,,,,

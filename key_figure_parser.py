@@ -39,7 +39,8 @@ def csv2json(infile, outfile, xe=False):
                                  '<tr><td>Cup:</td><td align="right">%s</tr>' \
                                  '<tr><td>CV:</td><td align="right">%s</tr>' \
                                  '</tbody></table></div>' \
-                                %(row['NameR'], row['Game'], row['Height'], row['Weight'], row['Blood'], row['B'], row['W'], row['H'], row['Cup'], row['CV']),
+                            %(row['NameR'], '</span></div><br/><div><span class=\"label label-default\">'.join(row['Game'].split('/')), row['Height'], 
+                              row['Weight'], row['Blood'], row['B'], row['W'], row['H'], row['Cup'], row['CV']),
                     'startDate': '2000,%s,%s,0,0,0' %(row['BirthMonth'], row['BirthDay']),
                     #'type':      'default',
                     #'tag':       row['Tag'],

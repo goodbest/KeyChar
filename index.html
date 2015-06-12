@@ -43,7 +43,7 @@
                         var slide_data = data['timeline']['date'];
                         for (i = 0; i < slide_data.length; i++){
                             var dates = slide_data[i]['startDate'].split(',');   
-                            if(todaym < new Date(dates[0], dates[1] - 1, dates[2])){
+                            if(todaym <= new Date(dates[0], dates[1] - 1, dates[2])){
                                 todayCard = i + 1;
                                 break;
                             }

@@ -94,7 +94,7 @@ def csv2json(infile, outfile, xe=False):
     else:
         title_page['headline'] = 'Key Character Birthday Timeline'
     title_page['text'] = \
-        'Last update: 2015/03<br/>webpage made by <a href=\"https://twitter.com/lovegoodbest\">goodbest</a>@<a href=\"http://keyfc.net\">KeyFC</a><br/><br/>' \
+        'Last update: 2015/08<br/>webpage made by <a href=\"https://twitter.com/lovegoodbest\">goodbest</a>@<a href=\"http://keyfc.net\">KeyFC</a><br/><br/>' \
         '<p>Special thanks to:<br/>slk000, 幾星霜の観測者, <a href=\"http://www.weibo.com/1415459877\">JimRaynor_2001</a></p>'
     title_page['type'] = 'default'
     title_page['asset'] = {}

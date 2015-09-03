@@ -20,6 +20,12 @@ As of today, information in this project is collected by:
 
 `goodbest` `slk000` `幾星霜の観測者`  `JimRaynor_2001` 
 
+#How to Contribute/Update
+1. Fork and edit .csv
+2. Make pull request, and wait for merge
+3. Run `python key_figure_parser.py` to update .json file
+4. Commit and Sync
+
 #Credit
 Logo and images are copyright stuff by VisualArt's / Key, which is clearly shown in the webpage.
 

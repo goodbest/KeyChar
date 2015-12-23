@@ -19,18 +19,18 @@ Y,水瀬 秋子,Minase Akiko,9,23,165,50,O,86,57,83,E,KAN_AKI.png,KAN_AKI.gif,Ka
 Y,美坂 香里,Misaka Kaori,3,1,164,48,B,83,55,81,D,KAN_KAO.png,KAN_KAO.gif,Kanon,川澄 綾子,幾星霜の観測者,http://zh.wikipedia.org/wiki/Kanon
 Y,天野 美汐,Amano Mishio,12,6,159,44,A,80,53,79,D,KAN_MIS.png,KAN_MIS.png,Kanon,坂本 真綾,幾星霜の観測者,http://zh.wikipedia.org/wiki/Kanon
 N,,,,,,,,,,,,,,,,,
-Y,古河 渚,Furukawa Nagisa,12,24,155,43,A,80,55,81,B,CLA_NAG.png,,CLANNAD,中原 麻衣,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,藤林 杏,Fujibayashi Kyō,9,9,160,46,O,82,56,82,D,CLA_KYO.png,,CLANNAD,広橋 涼,slk000/JimRaynor,https://twitter.com/kay_comment/status/639088617483186176
-Y,一ノ瀬 ことみ,Ichinose Kotomi,5,13,160,48,A,88,58,85,F,CLA_KOT.png,,CLANNAD,能登 麻美子,slk000,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,坂上 智代,Sakagami Tomoyo,10,14,161,47,O,86,57,82,E,CLA_TOM.png,,CLANNAD/智代アフター,桑島 法子,slk000,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,伊吹 風子,Ibuki Fūko,7,20,150,41,B,78,54,79,A,CLA_FUK.png,,CLANNAD,野中 藍,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,宮沢 有紀寧,Miyazawa Yukine,8,7,157,45,A,不明,不明,不明,Est. B,CLA_YUK.png,,CLANNAD,榎本 温子,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
-Y,藤林 椋,Fujibayashi Ryou,9,9,159,47,O,85,56,83,E,CLA_RYO.png,,CLANNAD,神田 朱未,slk000/JimRaynor,https://twitter.com/kay_comment/status/639088617483186176
-Y,相楽 美佐枝,Sagara Misae,4,3,166,51,B,不明,不明,不明,Est. E,CLA_MIS.png,,CLANNAD,雪野 五月,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
-Y,春原 芽衣,Sunohara Mei,6,11,152,42,A,不明,不明,不明,Est. A,CLA_MEI.png,,CLANNAD,田村 ゆかり,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
+Y,古河 渚,Furukawa Nagisa,12,24,155,43,A,80,55,81,B,CLA_NAG.png,CLA_NAG.jpg,CLANNAD,中原 麻衣,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
+Y,藤林 杏,Fujibayashi Kyō,9,9,160,46,O,82,56,82,D,CLA_KYO.png,CLA_KYO.jpg,CLANNAD,広橋 涼,slk000/JimRaynor,https://twitter.com/kay_comment/status/639088617483186176
+Y,一ノ瀬 ことみ,Ichinose Kotomi,5,13,160,48,A,88,58,85,F,CLA_KOT.png,CLA_KOT.jpg,CLANNAD,能登 麻美子,slk000,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
+Y,坂上 智代,Sakagami Tomoyo,10,14,161,47,O,86,57,82,E,CLA_TOM.png,CLA_TOM.jpg,CLANNAD/智代アフター,桑島 法子,slk000,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
+Y,伊吹 風子,Ibuki Fūko,7,20,150,41,B,78,54,79,A,CLA_FUK.png,CLA_FUK.jpg,CLANNAD,野中 藍,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
+Y,宮沢 有紀寧,Miyazawa Yukine,8,7,157,45,A,不明,不明,不明,Est. B,CLA_YUK.png,CLA_YUK.jpg,CLANNAD,榎本 温子,slk000/JimRaynor,http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
+Y,藤林 椋,Fujibayashi Ryou,9,9,159,47,O,85,56,83,E,CLA_RYO.png,CLA_RYO.jpg,CLANNAD,神田 朱未,slk000/JimRaynor,https://twitter.com/kay_comment/status/639088617483186176
+Y,相楽 美佐枝,Sagara Misae,4,3,166,51,B,不明,不明,不明,Est. E,CLA_MIS.png,CLA_MIS.jpg,CLANNAD,雪野 五月,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
+Y,春原 芽衣,Sunohara Mei,6,11,152,42,A,不明,不明,不明,Est. A,CLA_MEI.png,CLA_MEI.jpg,CLANNAD,田村 ゆかり,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
 Y,古河 早苗,Furukawa Sanae,10,5,158,45,A,不明,不明,不明,Est. C,CLA_SAN.png,,CLANNAD,井上 喜久子,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
 Y,伊吹 公子,Ibuki Kouko,1,18,161,49,AB,不明,不明,不明,Est. C,CLA_KOU.png,,CLANNAD,皆口 裕子,幾星霜の観測者/JimRaynor,http://zh.wikipedia.org/wiki/CLANNAD
-Y,岡崎 汐,Okazaki Ushio,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,CLA_USH.png,,CLANNAD,兴梠 里美,幾星霜の観測者,http://zh.wikipedia.org/wiki/CLANNAD
+Y,岡崎 汐,Okazaki Ushio,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,CLA_USH.png,CLA_USH.jpg,CLANNAD,兴梠 里美,幾星霜の観測者,http://zh.wikipedia.org/wiki/CLANNAD
 ,,,,,,,,,,,,,,,,,
 Y,河南子,Kanako,不明,不明,不明,不明,不明,不明,不明,不明,Est. C,TA_KAN.png,,智代アフター,すずき けいこ,JimRaynor,http://ja.wikipedia.org/wiki/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC_%E3%80%9CIt%27s_a_Wonderful_Life%E3%80%9C
 Y,三島 とも,Mishima Tomo,不明,不明,不明,不明,不明,不明,不明,不明,Est. AA,TA_MIS.png,,智代アフター,佐々木 あかり,JimRaynor,http://ja.wikipedia.org/wiki/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC_%E3%80%9CIt%27s_a_Wonderful_Life%E3%80%9C
@@ -85,6 +85,8 @@ Y,西森 美砂,Nishimori Misa,不明,不明,不明,不明,不明,不明,不明,
 N,乙坂 有宇,,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_YUU.png,,Charlotte,内山 昂輝,goodbest,http://ja.wikipedia.org/wiki/Charlotte
 N,高城 丈士朗,,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_JOU.png,,Charlotte,水島 大宙,goodbest,http://ja.wikipedia.org/wiki/Charlotte
 Y,乙坂 步未,Otosaka Ayumi,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_AYU.png,,Charlotte,麻倉 もも,goodbest,http://ja.wikipedia.org/wiki/Charlotte
+Y,目時,Medoki,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_MED.png,CHA_MED.jpg,Charlotte,瀬戸 麻沙美,goodbest,http://ja.wikipedia.org/wiki/Charlotte
+Y,サラ・シェーン,Sala Shane,不明,不明,不明,不明,不明,不明,不明,不明,不明,CHA_SAL.png,CHA_SAL.jpg,Charlotte,沢城 みゆき (cv)<br/>marina (song),goodbest,http://ja.wikipedia.org/wiki/Charlotte
 N,,,,,,,,,,,,,,,,,
 N,还要完成的：,,,,,,,,,,,,,,,,
 N,1. 补全罗马字,,,,,,,,,,,,,,,,
